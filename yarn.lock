@@ -613,10 +613,10 @@
   dependencies:
     chokidar "*"
 
-"@types/chrome@^0.0.183":
-  version "0.0.183"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.183.tgz#c12649c00ae5ae8fca511248256c0b11f91c95e2"
-  integrity sha512-sYI1qGY2oB6U5GFyuoSsVJsi2ytuEe92QrQTXQRwkISN8yn1gPY5qRq1XSwKN17yjvZTgxxeHw2ZoSHMti6qYg==
+"@types/chrome@^0.0.267":
+  version "0.0.267"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.267.tgz#eefb7d2085993437d8109eb495431dfc0e3dbda1"
+  integrity sha512-vnCWPpYjazSPRMNmybRH+0q4f738F+Pbbls4ZPFsPr9/4TTNJyK1OLZDpSnghnEWb4stfmIUtq/GegnlfD4sPA==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
